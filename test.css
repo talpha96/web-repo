@@ -1,0 +1,19 @@
+h1 {
+    color:firebrick;
+}
+
+.secondh1 {
+    color: darkturquoise;
+}
+
+h2 {
+    color:crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform:uppercase;
+}
+
+p {
+    text-decoration: underline;
+    text-decoration-color:deeppink;
+    text-decoration-thickness: 3px;
+}
